@@ -46,6 +46,14 @@ body
     font-size: 20px;    
 }
 #post
+<<<<<<< HEAD
+=======
+{
+    background: white;
+    padding: 1em;
+}
+#footer
+>>>>>>> footer
 {
     background: white;
     padding: 1em;
